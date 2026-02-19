@@ -1,0 +1,31 @@
+<INDEX REVISION="01.00.00">
+<DEVICE ID="0x094F" PRODUCTNAME="E" USE_CLOUD="0">
+<HARDWARE REVISION="01.00.00">
+     <RELEASE HTTPHOST="downloads-dev.bose.com" LANGUAGES="en-us" REVISION="0.9.0+g76d4110" URLPATH="/ced/edelman/">
+      <IMAGE CRC="0x18D6661D" FILENAME="edelman_encrypted_prod_0.9.0.bin" LENGTH="6017896" NOFORCE="1" REVISION="0.9.0+g76d4110" SUBID="0" />
+    </RELEASE>
+    <RELEASE HTTPHOST="downloads-dev.bose.com" LANGUAGES="en-us" REVISION="0.10.0+g6b2a8a5" URLPATH="/ced/edelman/">
+      <IMAGE CRC="0xDB22872E" FILENAME="edelman_encrypted_prod_0.10.0.bin" LENGTH="5929672" NOFORCE="1" REVISION="0.10.0+g6b2a8a5" SUBID="0" />
+    </RELEASE>
+    <RELEASE HTTPHOST="downloads-dev.bose.com" LANGUAGES="en-us" REVISION="0.11.0+g513f0c7" URLPATH="/ced/edelman/">
+      <IMAGE CRC="0x0C82D812" FILENAME="edelman_encrypted_prod_0.11.0.bin" LENGTH="5333032" NOFORCE="1" REVISION="0.11.0+g513f0c7" SUBID="0" />
+    </RELEASE>
+    <RELEASE HTTPHOST="downloads-dev.bose.com" LANGUAGES="en-us" REVISION="0.12.0+g5b35bfb" URLPATH="/ced/edelman/">
+      <IMAGE CRC="0x268D2658" FILENAME="edelman_encrypted_prod_0.12.0.bin" LENGTH="5404952" NOFORCE="1" REVISION="0.12.0+g5b35bfb" SUBID="0" />
+    </RELEASE>
+    <RELEASE HTTPHOST="downloads-dev.bose.com" LANGUAGES="en-us" REVISION="1.0.0+gd79a417" URLPATH="/ced/edelman/">
+      <IMAGE CRC="0x4C9F1ECD" FILENAME="edelman_encrypted_prod_1.0.0.bin" LENGTH="5465336" NOFORCE="1" REVISION="1.0.0+gd79a417" SUBID="0" />
+    </RELEASE>
+    <RELEASE HTTPHOST="downloads-dev.bose.com" LANGUAGES="en-us" REVISION="1.1.0+ga4bfa1a" URLPATH="/ced/edelman/">
+      <IMAGE CRC="0x9B1CD7DC" FILENAME="edelman_encrypted_prod_1.1.0.bin" LENGTH="5466552" NOFORCE="1" REVISION="1.1.0+ga4bfa1a" SUBID="0" />
+    </RELEASE>
+     <RELEASE HTTPHOST="downloads-dev.bose.com" LANGUAGES="en-us" REVISION="1.4.0+ge761fd9" URLPATH="/ced/edelman/">
+      <IMAGE CRC="0x389F45A9" FILENAME="edelman_encrypted_prod_1.4.0.bin" LENGTH="5467096" NOFORCE="1" REVISION="1.4.0+ge761fd9" SUBID="0" />
+    </RELEASE>
+
+    <RELEASE HTTPHOST="downloads-dev.bose.com" LANGUAGES="en-us" REVISION="4.12.4+ge34ea6e" URLPATH="/ced/edelman/">
+      <IMAGE CRC="0xC80C1621" FILENAME="edelman_encrypted_prod_4.12.4.bin" LENGTH="5677896" NOFORCE="1" REVISION="4.12.4+ge34ea6e" SUBID="0" />
+    </RELEASE>
+</HARDWARE>
+</DEVICE>
+</INDEX>
