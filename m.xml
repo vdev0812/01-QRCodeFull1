@@ -26,9 +26,7 @@
     <RELEASE HTTPHOST="downloads-dev.bose.com" LANGUAGES="en-us" REVISION="4.12.4+ge34ea6e" URLPATH="/ced/edelman/">
       <IMAGE CRC="0xC80C1621" FILENAME="edelman_encrypted_prod_4.12.4.bin" LENGTH="5677896" NOFORCE="1" REVISION="4.12.4+ge34ea6e" SUBID="0" />
     </RELEASE>
-    <RELEASE HTTPHOST="downloads-dev.bose.com" LANGUAGES="en-us" REVISION="4.12.18+g912e75d" URLPATH="/ced/edelman/">
-      <IMAGE CRC="0x229A7391" FILENAME="edelman_unencrypted_4.12.18.bin" LENGTH="5681492" NOFORCE="1" REVISION="4.12.18+g912e75d" SUBID="0" />
-    </RELEASE>
 </HARDWARE>
 </DEVICE>
 </INDEX>
+
